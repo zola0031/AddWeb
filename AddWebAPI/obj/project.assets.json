@@ -5862,11 +5862,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebAPI\\AddWebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebAPI\\AddWebAPI.csproj",
       "projectName": "AddWebAPI",
-      "projectPath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebAPI\\AddWebAPI.csproj",
+      "projectPath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebAPI\\AddWebAPI.csproj",
       "packagesPath": "C:\\Users\\zolaDO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebAPI\\obj\\",
+      "outputPath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zolaDO\\AppData\\Roaming\\NuGet\\NuGet.Config",

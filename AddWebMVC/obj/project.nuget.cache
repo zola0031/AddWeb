@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "am8zaaE/ZTuZ6OaVeGW0Dz8GYYldvLxe11pADOnCumRUr3TInIr4MjMKApcasxHy5P0yvvv6FKt8OjVcsFc7Bw==",
+  "dgSpecHash": "RFw4n3iZEVjFHbe5vF89GCm5VVD2J0ADntOfKyTNq68og4iQ31Vu/UrhkmwHKFJhXbYa3VO/ElqPaIKqdmTCSg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebMVC\\AddWebMVC.csproj",
+  "projectFilePath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebMVC\\AddWebMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\zolaDO\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\zolaDO\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.1\\automapper.extensions.microsoft.dependencyinjection.8.1.1.nupkg.sha512",

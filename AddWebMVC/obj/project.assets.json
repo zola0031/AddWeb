@@ -8969,11 +8969,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebMVC\\AddWebMVC.csproj",
+      "projectUniqueName": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebMVC\\AddWebMVC.csproj",
       "projectName": "AddWebMVC",
-      "projectPath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebMVC\\AddWebMVC.csproj",
+      "projectPath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebMVC\\AddWebMVC.csproj",
       "packagesPath": "C:\\Users\\zolaDO\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebMVC\\obj\\",
+      "outputPath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\zolaDO\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8991,8 +8991,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebAPI\\AddWebAPI.csproj": {
-              "projectPath": "C:\\Users\\zolaDO\\source\\repos\\AddWebAPI\\AddWebAPI\\AddWebAPI.csproj"
+            "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebAPI\\AddWebAPI.csproj": {
+              "projectPath": "C:\\Users\\zolaDO\\source\\repos\\New folder\\AddWeb\\AddWebAPI\\AddWebAPI.csproj"
             }
           }
         }
